@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Dynamic;
-using JParse.Core;
+using JParse.Core.Internal;
 using Xunit;
 
 namespace JParse.Test.Core

@@ -5,9 +5,9 @@ using System.Dynamic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace JParse.Core
+namespace JParse.Core.Internal
 {
-    public class CombinedParser
+    internal class CombinedParser
     {
         private readonly string _input;
         private int _index;
